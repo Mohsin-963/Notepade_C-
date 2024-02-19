@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotePad", "NotePad\NotePad.csproj", "{F60A1147-461A-4CE3-9931-566606A976EC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "NotePad_Setup", "NotePad_Setup\NotePad_Setup.vdproj", "{C5AF0768-009A-425A-A7C8-E81DCEAB291D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "NotePadSetup1", "NotePadSetup1\NotePadSetup1.vdproj", "{27555DCE-C0C8-4DF1-BAC7-AA627FED7859}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F60A1147-461A-4CE3-9931-566606A976EC}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{F60A1147-461A-4CE3-9931-566606A976EC}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{F60A1147-461A-4CE3-9931-566606A976EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F60A1147-461A-4CE3-9931-566606A976EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5AF0768-009A-425A-A7C8-E81DCEAB291D}.Debug|Any CPU.ActiveCfg = Release
+		{C5AF0768-009A-425A-A7C8-E81DCEAB291D}.Release|Any CPU.ActiveCfg = Release
+		{27555DCE-C0C8-4DF1-BAC7-AA627FED7859}.Debug|Any CPU.ActiveCfg = Debug
+		{27555DCE-C0C8-4DF1-BAC7-AA627FED7859}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

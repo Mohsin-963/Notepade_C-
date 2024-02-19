@@ -1,0 +1,4 @@
+Setup and Msi is followig install from them.
+following is the source for this project search on youtube:
+- How To Create Notepad Using Visual C#
+- Vedio Time; 11:57 

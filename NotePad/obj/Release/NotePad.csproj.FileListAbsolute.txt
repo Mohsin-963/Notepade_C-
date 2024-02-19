@@ -1,0 +1,6 @@
+C:\Users\Mr\documents\visual studio 2015\Projects\NotePad\NotePad\bin\Release\NotePad.exe.config
+C:\Users\Mr\documents\visual studio 2015\Projects\NotePad\NotePad\obj\Release\NotePad.Form1.resources
+C:\Users\Mr\documents\visual studio 2015\Projects\NotePad\NotePad\obj\Release\NotePad.Properties.Resources.resources
+C:\Users\Mr\documents\visual studio 2015\Projects\NotePad\NotePad\obj\Release\NotePad.csproj.GenerateResource.Cache
+C:\Users\Mr\documents\visual studio 2015\Projects\NotePad\NotePad\obj\Release\NotePad.exe
+C:\Users\Mr\documents\visual studio 2015\Projects\NotePad\NotePad\obj\Release\NotePad.pdb
